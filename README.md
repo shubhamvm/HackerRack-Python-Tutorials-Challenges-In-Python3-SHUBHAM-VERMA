@@ -1,2 +1,2 @@
-# HackerRank-Solutions-PYTHON
+#HackerRack Python Tutorials Challenges
 Python solutions
