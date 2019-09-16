@@ -1,4 +1,4 @@
-import cmath
+from cmath import phase
 a = complex(input())
 print(abs(a))
-print(cmath.phase(a))
+print(phase(a))
