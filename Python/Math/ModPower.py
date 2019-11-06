@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+m = float(input())
+print(int(a**b))
+print(int((a**b)% m))
